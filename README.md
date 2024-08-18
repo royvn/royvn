@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @royvn
 - 👀 I’m interested in Shopify, Javascript, Web
-- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me https://roy.vanneden.nl
